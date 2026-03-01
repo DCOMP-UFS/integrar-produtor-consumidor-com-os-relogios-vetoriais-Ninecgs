@@ -11,3 +11,6 @@ mpicc -Wall -Wextra -pthread etapa3.c -o etapa3
 
 ## Execução
 mpirun --oversubscribe -np 3 ./etapa3
+
+## Diagrama da solução 
+[Diagrama completo da solução](https://drive.google.com/file/d/1l_rTdYr7znglnyrii0Y8tgtt1YvPiCdt/view?usp=sharing)
